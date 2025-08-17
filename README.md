@@ -1,5 +1,3 @@
-# alx_travel_app_0x02
-
 # ALX Travel App 0x02 - Chapa Payment Integration
 
 This project is an extension of the ALX Travel App, focusing on integrating the Chapa payment gateway for handling hotel booking payments securely.
